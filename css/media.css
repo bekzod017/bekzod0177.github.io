@@ -1,0 +1,24 @@
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) { }
+
+
+@media (max-width: 768px) { 
+    .site-navbar-wrap{
+    width: 100%;
+    padding: 0px 0;
+    left: auto;
+  }}
+
+
+@media (max-width: 670px) {
+}
+
+
+@media (max-width: 568px )  {}
+
+@media (max-width: 414px )  {}
+
+
+@media (max-width: 375px )  {}
