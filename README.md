@@ -1,1 +1,1 @@
-# bekzod0177.github.io
+# bekzod017.github.io
